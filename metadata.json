@@ -1,0 +1,59 @@
+{
+  "name": "Flip Girl #266",
+  "symbol": "Flip Girl #266",
+  "description": "Evolve, Plug in, Switch on, Join the Hunt & Stake your Claim on the Future - Now. Bounty Hunters are a collection of 8000 unique NFT's on the solana blockchain",
+  "seller_fee_basis_points": 200,
+  "image": "https://img-cdn.magiceden.dev/rs:fill:640:640:0:0/plain/https://nftstorage.link/ipfs/bafybeicpummhtcjvszxvwelkyyzwv35i7cfrc6bl2v455skj5xmlmge5ae/266.jpeg",
+  "attributes": [
+   {
+      "trait_type": "Background ",
+      "value": "Katana Mask"
+    },
+    {
+      "trait_type": "Body ",
+      "value": "Pink Milka"
+    },
+    {
+      "trait_type": "Stickers",
+      "value": "Black Eyes Tattoo"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Snake"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tongue Up"
+    },
+    {
+      "trait_type": "Hair ",
+      "value": "Black Pink Streaks"
+    },
+    {
+      "trait_type": "Clothes ",
+      "value": "Pink Top Stripes"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Hell Hairpin"
+    },
+    {
+      "trait_type": "Attributes",
+      "value": "Headband Robot"
+    },
+    {
+      "trait_type": "Rarity Rank",
+      "value": 79,
+      "display_type": "number",
+      "max_value": 4444
+    }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "8CA6cwo9PpqUsDB8WU4vB5eFJYRv3cA3kYyrGy2p5iAZ",
+        "share": 100
+      }
+    ]
+  }
+
